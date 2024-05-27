@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA7CC4F-6BE2-4501-BEC9-C4909E72537D}|WebApi\\WebApi.csproj|C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\webapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "eventController.cs",
               "DocumentMoniker": "C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\WebApi\\Controllers\\eventController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\eventController.cs",
@@ -107,15 +107,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\WebApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\WebApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA+wB8AAAAFAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwB8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:54:41.084Z"
+              "WhenOpened": "2024-05-27T06:54:41.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -125,7 +126,7 @@
               "RelativeDocumentMoniker": "WebApi\\Data\\userData.cs",
               "ToolTip": "C:\\Users\\Aldo\\source\\repos\\NO_ProyectoWebAPICSharp\\ProyectoWebApi\\WebApi\\Data\\userData.cs",
               "RelativeToolTip": "WebApi\\Data\\userData.cs",
-              "ViewState": "AQIAAIYAAAAAAAAAAAAAwKYAAAA1AAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwDYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T05:59:53.384Z",
               "EditorCaption": ""

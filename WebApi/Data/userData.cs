@@ -52,7 +52,7 @@ namespace WebApi.Data
                 spInsercion.Parameters.AddWithValue("@Nombre", user.Nombre);
                 spInsercion.Parameters.AddWithValue("@ApellidoMaterno", user.ApellidoMaterno);
                 spInsercion.Parameters.AddWithValue("@ApellidoPaterno", user.ApellidoPaterno);
-                spInsercion.Parameters.AddWithValue("@Teléfono", user.Telefono);
+                spInsercion.Parameters.AddWithValue("@Telefono", user.Telefono);
                 spInsercion.Parameters.AddWithValue("@CorreoUniversitario", user.Correo);
                 spInsercion.Parameters.AddWithValue("@IdRol", user.IdRol);
 
